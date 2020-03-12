@@ -15,7 +15,7 @@
 The goal of this project is to show my portifolio to the world.
 
 ## Screenshots
-!Quote Scraper App](./QuoteScraper.PNG)
+![Quote Scraper App](./QuoteScraper.PNG)
 
 ## Technologies
 * PyCharm
