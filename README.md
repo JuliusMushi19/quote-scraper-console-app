@@ -30,7 +30,7 @@ Features ready:
 * Scrape quotes from a webpage
 
 To-do list:
-* Scrape quotes with authors
+* None
 
 ## Status
 Project is: _finished_
